@@ -1,0 +1,2 @@
+# dolar
+Baguios da dolar
